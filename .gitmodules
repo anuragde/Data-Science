@@ -13,3 +13,18 @@
 [submodule "Data-Analytics-Dashboard"]
 	path = Data-Analytics-Dashboard
 	url = https://github.com/anuragde/Data-Analytics-Dashboard.git
+[submodule "Data"]
+	path = Data
+	url = https://github.com/anuragde/Classification-and-Clustering-Algorithms.git
+[submodule "Tableau"]
+	path = Tableau
+	url = https://github.com/anuragde/Data-Analytics-Dashboard.git
+[submodule "Prediction"]
+	path = Prediction
+	url = https://github.com/anuragde/Algorithms-and-models-for-data-analysis-learning-and-prediction.git
+[submodule "Pew"]
+	path = Pew
+	url = https://github.com/anuragde/Data-cleaning-and-munging.git
+[submodule "Tweets"]
+	path = Tweets
+	url = https://github.com/anuragde/Data-Clients-and-Information-Servers
