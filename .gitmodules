@@ -1,0 +1,15 @@
+[submodule "Data-Clients-and-Information-Servers"]
+	path = Data-Clients-and-Information-Servers
+	url = https://github.com/anuragde/Data-Clients-and-Information-Servers
+[submodule "Data-cleaning-and-munging"]
+	path = Data-cleaning-and-munging
+	url = https://github.com/anuragde/Data-cleaning-and-munging.git
+[submodule "Algorithms-and-models-for-data-analysis-learning-and-prediction"]
+	path = Algorithms-and-models-for-data-analysis-learning-and-prediction
+	url = https://github.com/anuragde/Algorithms-and-models-for-data-analysis-learning-and-prediction.git
+[submodule "Classification-and-Clustering-Algorithms"]
+	path = Classification-and-Clustering-Algorithms
+	url = https://github.com/anuragde/Classification-and-Clustering-Algorithms.git
+[submodule "Data-Analytics-Dashboard"]
+	path = Data-Analytics-Dashboard
+	url = https://github.com/anuragde/Data-Analytics-Dashboard.git
